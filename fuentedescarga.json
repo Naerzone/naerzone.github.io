@@ -19,3 +19,24 @@
     }
   ]
 }
+{
+  "name": "Naerzone",
+  "downloads": [
+    {
+      "title": "BioGun",
+      "uris": [
+        "magnet:?xt=urn:btih:c9c6ccfbdc1efab4dbf17473463e2c74b92dd2ea"
+      ],
+      "uploadDate": "2024-10-30T21:25:37.000Z",
+      "fileSize": "1 GB"
+    },
+    {
+      "title": "Clock Tower: Rewind",
+      "uris": [
+        "magnet:?xt=urn:btih:87aaf7518553fbeb2a053e67e2f0fa739be589b5"
+      ],
+      "uploadDate": "2024-10-30T21:40:47.000Z",
+      "fileSize": "7 GB"
+    }
+  ]
+}
