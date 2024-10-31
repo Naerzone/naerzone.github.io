@@ -1,24 +1,21 @@
-  {
- "name": "Naerzone",
-"downloads": [
-  {
-    "title":"Dying Light 2 Stay Human: Reloaded Edition",
-    "uris": [
-      "magnet:?xt=urn:btih:115d5d9e6513271054bf08ddf28479f8f01ec156"
-     ],
-     "uploadDate": "2024-10-29T05:35:06.000Z",
-     "fileSize": "30 GB"
+{
+  "name": "Naerzone",
+  "downloads": [
+      {
+            "title":"Dying Light 2 Stay Human: Reloaded Edition",
+            "uris": [
+                "magnet:?xt=urn:btih:115d5d9e6513271054bf08ddf28479f8f01ec156"
+       ],
+            "uploadDate": "2024-10-29T05:35:06.000Z",
+       "fileSize": "30 GB"
     },
     {
-     "name": "Naerzone",
-     "downloads": [
-       {
-        "title":"Sekiro™: Shadows Die Twice - GOTY Edition",
-        "uris": [
-          "magnet:?xt=urn:btih:0f1c8fca38a1eb75a6b85a580d16facf74e2206e"
+            "title":"Sekiro™: Shadows Die Twice - GOTY Edition",
+            "uris": [
+                "magnet:?xt=urn:btih:0f1c8fca38a1eb75a6b85a580d16facf74e2206e"
          ],
-         "uploadDate": "2024-10-30T16:24:50.000Z",
-         "fileSize": "10 GB"
-        }
-      ]
+            "uploadDate": "2024-10-30T16:24:50.000Z",
+            "fileSize": "10 GB"
     }
+  ]
+}
