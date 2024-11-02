@@ -168,9 +168,26 @@
       ],
       "uploadDate": "2024-11-01T21:38:40.000Z",
       "fileSize": "1 GB"
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt",
+      "uris": [
+        "magnet:?xt=urn:btih:2d971364a813bb7c79d85516c74fdff33697b75b"
+      ],
+      "uploadDate": "2024-11-02T13:13:50.000Z",
+      "fileSize": "63 GB"
+    },
+    {
+      "title": "Grand Theft Auto IV: The Complete Edition",
+      "uris": [
+        "magnet:?xt=urn:btih:c6f3a8293fc1af6896cca15a94f2e2ea6dcbfd03"
+      ],
+       "uploadDate": "2024-11-02T13:18:47.000Z",
+       "fileSize": "13 GB"
     }
   ]
 }
+  
 
       
   
